@@ -5,7 +5,7 @@ It is imperative that all users read and understand the software license agreeme
 By proceeding with the installation, access, use, or distribution of this software, you agree to fully comply with the terms and conditions set forth in the license. 
 Any contrary action may result in legal implications. We recommend carefully reading the aforementioned license to ensure full compliance.
 
-![image](https://github.com/craftsmanapps/fpl-downloader-light-exec/assets/160058239/d3c7a630-4b98-4c98-ab67-8d6f88b185aa)
+![image](https://github.com/craftsmanapps/fpl-downloader-light-exec/assets/160058239/277240f4-06cd-4c74-b83e-b1bbc1ea4152)
 
 ### How to use
 #### Linux
