@@ -19,8 +19,8 @@ Any contrary action may result in legal implications. We recommend carefully rea
 
 #### Windows
 - Download the Linux executable.
-- Open the console/terminal.
-- Type ./fpl-downloader-linux.
+- Open the command
+- Type fpl-downloader-win.exe
 - Windows will prompt about security, allow the application to be executed.
 - In the start menu, select Download photos.
 - Type the model's name (use the website link).
