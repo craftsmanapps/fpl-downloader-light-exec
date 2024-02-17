@@ -28,3 +28,6 @@ Any contrary action may result in legal implications. We recommend carefully rea
 - Verify if the photos have been downloaded to the models/model_name folder.
 
 *Note*: This software is still in its initial version, so there may be improvements or bugs to fix.
+
+Consider "buying me a coffee" if you'd like to contribute to my work.
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/craftsmanm7)
