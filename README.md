@@ -1,5 +1,7 @@
 # Fapello Downloader
 
+Last Update: February 1, 2025
+
 ## Disclaimer
 It is imperative that all users read and understand the software license agreement before any interaction. 
 By proceeding with the installation, access, use, or distribution of this software, you agree to fully comply with the terms and conditions set forth in the license. 
